@@ -28,7 +28,7 @@ This lab demonstrates practical experience with Spiceworks Cloud Help Desk, focu
 ![Ticket Details](Screenshots/03-ticket-details.png)
 
 ### 4. Ticket Resolution
-![Ticket Resolution](Screenshots/04-ticket-resolution.png)
+![Ticket Resolution](Screenshots/04-ticket-escalation.png)
 
 
 ## Key Takeaways
