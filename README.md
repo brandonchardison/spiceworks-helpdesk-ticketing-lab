@@ -1,5 +1,3 @@
-# spiceworks-helpdesk-ticketing-lab
-Hands-on IT support lab demonstrating ticket creation, troubleshooting, documentation, and resolution using Spiceworks.
 # Spiceworks Help Desk Ticketing System Lab
 
 ## Overview
@@ -15,8 +13,7 @@ This lab demonstrates practical experience with Spiceworks Cloud Help Desk, focu
 1. **Help Desk Setup:** Accessed and navigated the Spiceworks ticketing environment.
 2. **Ticket Creation:** Created simulated IT support tickets to document technical issues.
 3. **Ticket Management:** Practiced organizing tickets by priority, status, and support requirements.
-4. **Troubleshooting Documentation:** Recorded troubleshooting steps and technical support notes.
-5. **Ticket Resolution:** Practiced updating ticket statuses and documenting resolutions.
+4. **Ticket Resolution:** Practiced updating ticket statuses and documenting resolutions.
 
 ## Screenshots
 
@@ -29,11 +26,8 @@ This lab demonstrates practical experience with Spiceworks Cloud Help Desk, focu
 ### 3. Ticket Details & Management
 ![Ticket Details](screenshots/03-ticket-details.png)
 
-### 4. Troubleshooting Documentation
-![Troubleshooting Notes](screenshots/04-troubleshooting-notes.png)
-
-### 5. Ticket Resolution
-![Ticket Resolution](screenshots/05-ticket-resolution.png)
+### 4. Ticket Resolution
+![Ticket Resolution](screenshots/04-ticket-resolution.png)
 
 ## Key Takeaways
 - Gained hands-on familiarity with a professional IT ticketing platform.
