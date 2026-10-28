@@ -15,19 +15,21 @@ This lab demonstrates practical experience with Spiceworks Cloud Help Desk, focu
 3. **Ticket Management:** Practiced organizing tickets by priority, status, and support requirements.
 4. **Ticket Resolution:** Practiced updating ticket statuses and documenting resolutions.
 
+
 ## Screenshots
 
 ### 1. Help Desk Dashboard
-![Help Desk Dashboard](screenshots/01-ticket-dashboard.png)
+![Help Desk Dashboard](Screenshots/01-ticket-dashboard.png)
 
 ### 2. Ticket Creation
-![Ticket Creation](screenshots/02-ticket-creation.png)
+![Ticket Creation](Screenshots/02-ticket-creation.png)
 
 ### 3. Ticket Details & Management
-![Ticket Details](screenshots/03-ticket-details.png)
+![Ticket Details](Screenshots/03-ticket-details.png)
 
 ### 4. Ticket Resolution
-![Ticket Resolution](screenshots/04-ticket-escalation.png)
+![Ticket Resolution](Screenshots/04-ticket-resolution.png)
+
 
 ## Key Takeaways
 - Gained hands-on familiarity with a professional IT ticketing platform.
